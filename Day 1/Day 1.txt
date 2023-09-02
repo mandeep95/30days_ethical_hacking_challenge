@@ -1,0 +1,26 @@
+Day -1 Learn Ethical Hacking 
+
+ Topic - Penetration Testing 
+
+a cybersecurity practice that involves simulating cyberattacks on computer systems, networks, or applications to identify vulnerabilities and weaknesses.
+
+1. Purpose of Penetration Testing:
+
+Penetration testing aims to evaluate the security of a system by attempting to exploit vulnerabilities.
+It helps organizations understand their security posture and assess potential risks.
+The ultimate goal is to improve security by identifying and addressing weaknesses.
+
+2. Types of Penetration Testing:
+
+Black Box Testing: Testers have no prior knowledge of the target system.
+White Box Testing: Testers have full knowledge of the target system's architecture and source code.
+Gray Box Testing: Testers have partial knowledge of the target system.
+
+3. Common Penetration Testing Tools:
+
+Tools like Nmap, Metasploit, Burp Suite, and Wireshark are commonly used by penetration testers.
+
+
+4. Books 
+
+🔗 link - https://repo.zenk-security.com/Magazine%20E-book/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf
