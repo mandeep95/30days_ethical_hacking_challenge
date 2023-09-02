@@ -1,0 +1,23 @@
+Day -2 Learn Ethical Hacking 
+
+Topic - Networking Fundamentals (TCP/IP, DNS, Subnetting)
+
+1. TCP/IP (Transmission Control Protocol/Internet Protocol):
+
+Purpose: TCP/IP is the foundation of the Internet. It defines how data should be formatted, addressed, transmitted, routed, and received.
+
+Link (TCP) - https://www.geeksforgeeks.org/what-is-transmission-control-protocol-tcp/
+
+Link (IP) - https://www.kaspersky.com/resource-center/definitions/what-is-an-ip-address
+
+2. DNS (Domain Name System):
+
+Purpose: DNS translates human-readable domain names (e.g., www.example.com) into IP addresses (e.g., 192.168.1.1) so that computers can locate each other on the Internet.
+
+Link - https://www.geeksforgeeks.org/domain-name-system-dns-in-application-layer/
+
+3. Subnetting:
+
+Purpose: Subnetting is a technique used to divide an IP network into smaller, more manageable subnetworks (subnets).
+
+Link - https://www.geeksforgeeks.org/introduction-to-subnetting/
