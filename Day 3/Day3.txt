@@ -1,0 +1,13 @@
+Day3 - Learn Ethical Hacking
+
+topic - Linux Basics (Commands, File System, Permissions)
+
+
+links - https://www.geeksforgeeks.org/basic-linux-commands/
+        https://www.javatpoint.com/linux-file-system
+        https://www.redhat.com/sysadmin/linux-file-permissions-explained
+        https://www.geeksforgeeks.org/permissions-in-linux/
+
+
+enjoy 🥳
+
