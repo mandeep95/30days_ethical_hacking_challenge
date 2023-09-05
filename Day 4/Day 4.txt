@@ -1,0 +1,24 @@
+Day 4 - Learn Ethical Hacking
+
+topic - Virtualization ( virtual box, VMware)
+
+software link - 
+
+virtual box - https://www.oracle.com/in/virtualization/technologies/vm/downloads/virtualbox-downloads.html
+              - video - https://www.youtube.com/watch?v=_hVnsl8t7tk
+
+VMware 
+
+        https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html
+
+     ( VMware Activation key - https://gist.github.com/PurpleVibe32/30a802c3c8ec902e1487024cdea26251?permalink_comment_id=4408079 )
+
+
+        video (install) - https://www.youtube.com/watch?v=rXZhNoTLMPQ
+
+
+
+
+enjoy 🔥
+
+by https://www.instagram.com/learn_hacking4/
