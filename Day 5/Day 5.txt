@@ -1,0 +1,21 @@
+Day 6 Learn Ethical Hacking 
+
+topic- Networking Tools (ping, netcat, nmap)
+
+
+Hands-on practice with networking tools.
+
+
+All tools and scripts are already installed in Kali Linux and Parrot OS.
+
+
+links - https://www.stationx.net/nmap-cheat-sheet/
+        https://www.redhat.com/sysadmin/quick-nmap-inventory
+        https://wiki.archlinux.org/title/Network_tools
+        https://www.varonis.com/blog/nmap-commands
+
+
+
+
+enjoy 🥳
+             
