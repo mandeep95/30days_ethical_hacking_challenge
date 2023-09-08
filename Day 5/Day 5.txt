@@ -1,21 +1,17 @@
-Day 6 Learn Ethical Hacking 
+Day 5 Learn Ethical Hacking 
 
-topic- Networking Tools (ping, netcat, nmap)
+Topic - Introduction to Kali Linux
 
+---Download and install Kali Linux---
 
-Hands-on practice with networking tools.
+Linux introduction - https://www.geeksforgeeks.org/introduction-to-kali-linux/
 
+Download Link - https://www.kali.org/get-kali/#kali-platforms
 
-All tools and scripts are already installed in Kali Linux and Parrot OS.
+install in virtual box video - https://www.youtube.com/watch?v=l0JgWilK6ok
 
-
-links - https://www.stationx.net/nmap-cheat-sheet/
-        https://www.redhat.com/sysadmin/quick-nmap-inventory
-        https://wiki.archlinux.org/title/Network_tools
-        https://www.varonis.com/blog/nmap-commands
-
+video - https://www.youtube.com/watch?v=N2L7kX69W0Y\
 
 
 
 enjoy 🥳
-             
