@@ -1,0 +1,21 @@
+Day 7 Learn Ethical Hacking 
+
+topic- Networking Tools - Nmap practice
+
+
+Hands-on practice with networking tools.
+
+
+All tools and scripts are already installed in Kali Linux and Parrot OS.
+
+
+links - https://www.stationx.net/nmap-cheat-sheet/
+        https://www.redhat.com/sysadmin/quick-nmap-inventory
+        https://www.varonis.com/blog/nmap-commands
+        https://www.youtube.com/watch?v=4t4kBkMsDbQ (imp)
+
+
+
+
+enjoy 🥳
+             
