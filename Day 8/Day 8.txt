@@ -1,0 +1,21 @@
+Day 8 Learn Ethical Hacking 
+
+topic- Wireshark Basics (Packet Capture and Analysis)
+
+
+Wireshark captures the data coming or going through the NICs on its device by using an underlying packet capture library. By default, Wireshark captures on-device data only, but it can capture almost all the data on its LAN if run in promiscuous mode.3
+
+All tools and scripts are already installed in Kali Linux and Parrot OS.
+
+
+links - https://www.geeksforgeeks.org/wireshark-packet-capturing-and-analyzing/
+        https://www.youtube.com/watch?v=AimCNTzDlVo&pp=ygUuV2lyZXNoYXJrIEJhc2ljcyAoUGFja2V0IENhcHR1cmUgYW5kIEFuYWx5c2lzKQ%3D%3D
+        https://www.youtube.com/watch?v=a-Fg7VVDf14
+        https://www.youtube.com/watch?v=EFxDXA9J-hk
+        
+
+
+
+
+enjoy 🥳
+             
