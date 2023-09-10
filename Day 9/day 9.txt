@@ -1,0 +1,25 @@
+Day 9/30 Learn Ethical Hacking
+
+topic - port scanning (nmap, zenmap)
+
+tools - nmap, zenmap 
+
+example - 
+PORT    STATE  SERVICE
+22/tcp  open   ssh
+25/tcp  closed smtp
+53/tcp  open   domain
+70/tcp  closed gopher
+80/tcp  open   http
+113/tcp closed auth
+
+
+links - https://nmap.org/book/port-scanning-tutorial.html
+        https://nmap.org/book/man-port-scanning-techniques.html
+        https://www.geeksforgeeks.org/port-scanning-techniques-by-using-nmap/ (simple )
+        https://www.educba.com/zenmap-vs-nmap/ (diff. b/w nmap, zenmap )
+        https://www.youtube.com/watch?v=-0jeplHyXmQ
+        https://www.youtube.com/watch?v=a7DnXf5YpnM 
+
+
+enjoy 🥳
