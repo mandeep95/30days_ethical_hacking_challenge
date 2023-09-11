@@ -1,0 +1,17 @@
+Day 10/30 Learn Ethical Hacking
+
+
+topic - Service Enumeration (Banner Grabbing, SNMP)
+
+
+
+links - https://securitytrails.com/blog/banner-grabbing
+ https://www.youtube.com/watch?v=MJ7-6v-hlqI
+https://www.youtube.com/watch?v=BMJcxgJTXbM
+
+
+https://www.manageengine.com/network-monitoring/what-is-snmp.html
+
+https://www.techtarget.com/searchnetworking/definition/SNMP
+
+
